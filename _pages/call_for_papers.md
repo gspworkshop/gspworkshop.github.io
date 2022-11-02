@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /call_for_papers/
-title: "Call for papers"
+title: "Call for PAPERS"
 description: 
 nav: true
 nav_order: 5
